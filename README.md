@@ -61,7 +61,7 @@ See 'git help git' for an overview of the system.
 - This command is used to send committed data to the remote server.
 
 # git branch
-- This command is usgit ed to view all the active branches.
+- This command is used to view all the active branches.
 
 # git switch <branch name>
 - This command is used to switch to the desired branch.
